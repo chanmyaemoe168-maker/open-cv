@@ -5,4 +5,5 @@ sample.jpg
 sample_resized.jpg
 raw_images/
 processed_images/
+edge_images/
 .DS_Store
